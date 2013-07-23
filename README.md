@@ -5,5 +5,5 @@ The app was selected as one of the top 6 apps from the bangalore region of do go
 
 Contributors:
 
-github.com/big_d
-github.com/kkushagra
+* www.github.com/big_d
+* www.github.com/kkushagra
