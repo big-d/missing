@@ -1,9 +1,9 @@
 <?php
 
-$username = "root";
-$password = "helloword";
+$username = "";
+$password = "";
 $host = "localhost";
-$database = "missingApp";
+$database = "";
 
 mysql_connect($host, $username, $password) or die("Can not connect to database: ".mysql_error());
 
