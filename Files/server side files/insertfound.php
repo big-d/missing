@@ -1,10 +1,10 @@
 <?php
 // Create MySQL login values and
 // set them to your login information.
-$username = "root";
+$username = "";
 $password = "helloword";
-$host = "localhost";
-$database = "missingApp";
+$host = "";
+$database = "";
 
 // Make the connect to MySQL or die
 // and display an error.
