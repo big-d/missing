@@ -2,10 +2,10 @@
 // Create MySQL login values and
 // set them to your login information.
 //print "I have visited the php file maccha!"
-$username = "root";
-$password = "helloword";
+$username = "";
+$password = "";
 $host = "localhost";
-$database = "missingApp";
+$database = "";
 
 // Make the connect to MySQL or die
 // and display an error.
