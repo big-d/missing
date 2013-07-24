@@ -2,7 +2,7 @@
 // Create MySQL login values and
 // set them to your login information.
 $username = "";
-$password = "helloword";
+$password = "";
 $host = "";
 $database = "";
 
